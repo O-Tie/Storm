@@ -5,12 +5,12 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
-    <option name="accentColor" value="1815ff" />
+    <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-42ab20c6:16abf4f72f2:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
