@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="itm-otie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.kodex.lv" />
+          <option name="userName" value="oleksandr.tielkov" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
