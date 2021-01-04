@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="172.16.33.107" id="369eefba-d750-4ea5-a0c1-194028779e98" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="bastrucks.erp" />
+    </configs>
+  </component>
+</application>
