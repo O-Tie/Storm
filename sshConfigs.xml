@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="172.16.33.107" id="369eefba-d750-4ea5-a0c1-194028779e98" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="bastrucks.erp" />
+      <sshConfig authType="PASSWORD" host="192.168.200.200" id="07789ccd-383a-4f7e-adbe-1b5b2c4103f7" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>
