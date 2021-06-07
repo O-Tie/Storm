@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="164_add_cms_page_rights.sql" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
       <removed_mapping ext="csv" type="CSV file" />
       <mapping ext="tsv" type="CSV/TSV" />
